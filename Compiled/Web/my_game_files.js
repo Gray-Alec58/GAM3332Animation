@@ -1,0 +1,1 @@
+var gamefiles = ['GAM3332Animation.ags', 'acsetup.cfg'];
