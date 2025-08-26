@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=GAM3332Animation,Windows=GAM3332Animation,Web=GAM3332Animation,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=GAM3332Animation,Windows=GAM3332Animation,Web=GAM3332Animation,_Debug=GAM3332Animation,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
