@@ -2479,8 +2479,8 @@
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
             <SpeechView>0</SpeechView>
-            <StartX>127</StartX>
-            <StartY>142</StartY>
+            <StartX>23</StartX>
+            <StartY>164</StartY>
             <StartingRoom>1</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
@@ -2523,8 +2523,8 @@
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>16392</SpeechColor>
             <SpeechView>0</SpeechView>
-            <StartX>215</StartX>
-            <StartY>110</StartY>
+            <StartX>250</StartX>
+            <StartY>55</StartY>
             <StartingRoom>1</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
@@ -5010,6 +5010,38 @@
               <Sprite Slot="20" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
                   <FileName>C:\Users\13362\Documents\GAM3332 Assets\Objects\sprite_3.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>32</ImportHeight>
+                  <ImportWidth>32</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>True</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <TransparentColorIndex>0</TransparentColorIndex>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="21" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>C:\Users\13362\Documents\GAM3332 Assets\Objects\AniChest.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>32</ImportHeight>
+                  <ImportWidth>32</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>True</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <TransparentColorIndex>0</TransparentColorIndex>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="22" Width="32" Height="32" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                <Source>
+                  <FileName>C:\Users\13362\Documents\GAM3332 Assets\Objects\AniSign.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>32</ImportHeight>
